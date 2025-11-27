@@ -1,6 +1,6 @@
 # My dreams
 My mom used to say, **You must die with one unfulfilled dream**. Hopefully, this repo will help me on this journey.
-To my future self - You need freedom and hope. For the most of the life, you didn't have neither of it. But still, you are young, smart and  strong. You can succeed. You can change your life. Believe in one lie that helps you endure such hardships. And that's hope. As my friends said, I am `free will` type of man". Whathever fuck that means. Don't ever give up. There is always opportunity, solution, or something. Anything. And when there is nothing left, believe in hope. Free will helps you to find opportunities, or at least, enjoy life.
+To my future self - You need freedom and hope. For the most of the life, you didn't have neither of it. But still, you are young, smart and  strong. You can succeed. You can change your life. Believe in one lie that helps you endure such hardships. And that's hope. As my friends said, I am `free will` type of man". Whathever fuck that means. Don't ever give up. There is always opportunity, solution, or something. Anything. And when there is nothing left, believe in hope. Free will helps you to find opportunities, or at least, enjoy life. 
 
 
 ## Tech related 
@@ -82,6 +82,36 @@ Rationality for mortals: How people cope with uncertainty
 
 Will extend
 
+
+## Travelling
+Knowledge is power. And knowledge lies scattered all around us. In books, in mentality of local people that you have opportunity to meet. Thank god, travelling is at least, cheapest in the history of mankind.
+
+This is kind of short but it will be extended
+
+### North America
+
+#### USA 
+Yellowstone national park
+Los Angeles 
+Alberqueue -> mostly because I am avid breaking bad fan
+New York city -> city that never sleeps
+New Jersey and Newark -> Sopranos fan
+
+
+
+### Europe - Soviet core
+
+#### Moldova 
+Chisinau -> capital city of Moldova. Peak 90s post-soviet derelict capital city
+Transnistria
+
+#### Russia
+Moscow Metro
+
+
+### Europe 
+
+Italy -> Sicilia, Milan, Napoli, everything I want to see.
 
 
 
