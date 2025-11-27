@@ -1,5 +1,7 @@
 # My dreams
 My mom used to say, **You must die with one unfulfilled dream**. Hopefully, this repo will help me on this journey.
+To my future self - You need freedom and hope. For the most of the life, you didn't have neither of it. But still, you are young, smart and  strong. You can succeed. You can change your life. Believe in one lie that helps you endure such hardships. And that's hope. As my friends said, I am `free will` type of man". Whathever fuck that means. Don't ever give up. There is always opportunity, solution, or something. Anything. And when there is nothing left, believe in hope. Free will helps you to find opportunities, or at least, enjoy life.
+
 
 ## Tech related 
 ### FPGA 
