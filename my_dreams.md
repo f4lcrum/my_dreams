@@ -6,6 +6,27 @@ To my future self - You need freedom and hope. For the most of the life, you did
 
 I wanna rescue stray cats. Animals are pure. They don't deserve it
 
+## Birthday update
+In a few days, I am turning 25 years old. It's kind of milestone, something like on Duolingo hah.
+
+I want to thank my family, my closest friends, for their presence in their life.
+
+Mom, dad, our relationship got ton of friction, bad things and traumas. But still, I believe you love me and I love you too. I hope one day we will be sitting behind one table, all together. Hopefully. 
+
+My big brother, I love you too and you accomplished so many things in so little time. It's not something that you hear everyday, but you should. I am proud of you.
+
+I want to devote this part to beloved people and pet that are not with us anymore.
+
+My grandpa. You were one of my biggest supporters, always available with some old school wisdom. Life without you is hard. But you taught me to be strong. We will never forget you. I think of you everyday. 
+
+My grandma. After grandpa's death you changed. I hope we will sit together without anger. I miss him too. 
+
+Paul, you were the first adult who saw me as a grown man, not a child. I will never forget how I learned to drive thanks to you. Or earned my first money. It was hard work but it was honor to work under your supervision. World miss your careless attitude and funny jokes.
+
+To my closest friends, I will do my best to help you, to cherish you and laugh with you.
+
+Hopefully, my next milestone (30 years old) we are all going to be healthy and happy. Nothing other really matters to be honest
+
 
 ## Tech related 
 ### FPGA 
